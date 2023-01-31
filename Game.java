@@ -161,7 +161,7 @@ public class Game {
             }
         }
 
-        //If the last move was done by computer:
+        //If the last move was done by P1 or P2
         if (!isComputerMove) {
             return 1;
         }
