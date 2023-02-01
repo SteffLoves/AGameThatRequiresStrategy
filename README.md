@@ -1,4 +1,4 @@
-# AGameThatRequiresStrategy
+# StrategyGame
 Assignment for project 1 in CS2
 
 "We are going to play a fun strategy game that only requires two 
